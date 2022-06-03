@@ -28,7 +28,7 @@ For both the logisitc regression and the Decision Tree, in-sample results proved
 Key features that came up again and again were: Level of Education, Age, Marital Status, Hours Worked per Week and capital gain.
 
 ### 4.
-At the end, overfitting seemed present but the Random Forest model run with the subset achieved an out-of-sample accuracy of 84.29 %.
+At the end, overfitting seemed present and the Random Forest model run with the subset achieved an out-of-sample accuracy of 84.29 %.
 One could argue that issues arose from the skewness of the data (more people were below 50.000 USD in income than above. 75% to be exact.)
 
 Ideas for different approaches going forward:
