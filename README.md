@@ -48,4 +48,4 @@ Self-critique:
 Code could have been written in a cleaner manner
 Other groupings could have been done -> Specific features came out as important. Could have been interesting to see if dropping some features,
 would result in other features being more important.
-
+- Need to improve upon feature selection. Try a different method next time.
